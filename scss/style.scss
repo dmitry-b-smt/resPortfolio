@@ -455,6 +455,11 @@ body {
       &__php {
             color: #534892;
       }
+
+      &__mysql {
+            color: #3386ca;
+            font-size: 18px;
+      }
 }
 @media (min-width: 728px) {
       .skills {
@@ -751,6 +756,7 @@ body {
             color: #ffffff;
             text-align: right;
             margin: 0px auto 50px;
+            text-transform: none;
       }
       &__container {
             display: flex;
@@ -781,7 +787,6 @@ body {
             box-shadow: 0px 0px 10px 1px #202020;
       }
       &__field-area {
-            text-transform: capitalize;
       }
       @media (min-width: 728px) {
             &__field {

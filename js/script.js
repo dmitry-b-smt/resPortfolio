@@ -185,9 +185,7 @@ contactsLinks.forEach(function (item) {
 // ----------------------------CONTACT FORM--------------------------------
 
 const contactForm = document.querySelector('.contact-form__container');
-console.log(contactForm);
 const inputFields = contactForm.querySelectorAll('.form__field');
-console.log(inputFields);
 
 inputFields.forEach(function (item) {
     let itemPlaceholder = item.placeholder;
@@ -200,3 +198,85 @@ inputFields.forEach(function (item) {
         item.classList.remove('form__field-active');
     })
 })
+
+
+// ----------------------------LANG SWITCH----------------------------------
+
+const langButtonsContainer = document.querySelector('.menu__lang-switcher');
+const langBurgerButtonsContainer = document.querySelector('.burger__lang-switcher');
+const langButtonEn = langButtonsContainer.querySelector('[value="en"]');
+const langButtonRu = langButtonsContainer.querySelector('[value="ru"]');
+const langBurgerButtonEn = langBurgerButtonsContainer.querySelector('[value="en"]');
+const langBurgerButtonRu = langBurgerButtonsContainer.querySelector('[value="ru"]');
+const textEn = document.querySelectorAll('.text-en');
+const textRu = document.querySelectorAll('.text-ru');
+
+if (langButtonEn.checked && langBurgerButtonEn) {
+    textEn.forEach(function (item) {
+        item.style.display = "block";
+    });
+    textRu.forEach(function (item) {
+        item.style.display = "none";
+    });
+}
+
+if (langButtonRu.checked && langBurgerButtonRu) {
+    textEn.forEach(function (item) {
+        item.style.display = "none";
+    });
+    textRu.forEach(function (item) {
+        item.style.display = "block";
+    });
+}
+
+langButtonEn.addEventListener('click', function (e) {
+    if (langButtonEn.checked) {
+        langBurgerButtonEn.checked = "true";
+        textEn.forEach(function (item) {
+            item.style.display = "block";
+        });
+        langBurgerButtonRu.removeAttribute("checked");
+        textRu.forEach(function (item) {
+            item.style.display = "none";
+        });
+    }
+});
+
+langButtonRu.addEventListener('click', function (e) {
+    if (langButtonRu.checked) {
+        langBurgerButtonEn.removeAttribute("checked");
+        textEn.forEach(function (item) {
+            item.style.display = "none";
+        });
+        langBurgerButtonRu.checked = "true";
+        textRu.forEach(function (item) {
+            item.style.display = "block";
+        });
+    }
+});
+
+langBurgerButtonEn.addEventListener('click', function (e) {
+    if (langBurgerButtonEn.checked) {
+        langButtonEn.checked = "true";
+        textEn.forEach(function (item) {
+            item.style.display = "block";
+        });
+        langButtonRu.removeAttribute("checked");
+        textRu.forEach(function (item) {
+            item.style.display = "none";
+        });
+    }
+});
+
+langBurgerButtonRu.addEventListener('click', function (e) {
+    if (langBurgerButtonRu.checked) {
+        langButtonEn.removeAttribute("checked");
+        textEn.forEach(function (item) {
+            item.style.display = "none";
+        });
+        langButtonRu.checked = "true";
+        textRu.forEach(function (item) {
+            item.style.display = "block";
+        });
+    }
+});

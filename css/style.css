@@ -952,6 +952,11 @@ body {
   color: #534892;
 }
 
+.skills__mysql {
+  color: #3386ca;
+  font-size: 18px;
+}
+
 @media (min-width: 728px) {
   .skills {
     max-width: 50%;
@@ -1291,6 +1296,7 @@ body {
   color: #ffffff;
   text-align: right;
   margin: 0px auto 50px;
+  text-transform: none;
 }
 
 .contact-form__container {
@@ -1330,10 +1336,6 @@ body {
 .form__field-active {
   -webkit-box-shadow: 0px 0px 10px 1px #202020;
           box-shadow: 0px 0px 10px 1px #202020;
-}
-
-.form__field-area {
-  text-transform: capitalize;
 }
 
 @media (min-width: 728px) {
