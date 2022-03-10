@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="400" height="400" viewBox="0 0 400 400" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.2</desc>
+<defs>
+</defs>
+<g transform="matrix(5.39 0 0 5.39 200 200)" id="facebook"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: evenodd; opacity: 1;"  transform=" translate(-9.01, -18.02)" d="M 4.46222394 35.314313 L 4.46222394 17.9989613 L 0.94328895 17.9989612 L 0.94328895 12.2593563 L 4.46222393 12.2593563 L 4.46222394 8.78838641 C 4.46222394 4.10664222 5.86199482 0.730618986 10.9881023 0.730618986 L 17.0863595 0.730618986 L 17.0863595 6.45843996 L 12.7922546 6.45843996 C 10.6418944 6.45843996 10.1518737 7.8873763 10.1518737 9.38376095 L 10.1518737 12.2593553 L 16.7694231 12.2593558 L 15.8661728 17.9989613 L 10.1518737 17.9989613 L 10.1518737 35.3143123 L 4.46222394 35.314313 Z" stroke-linecap="round" />
+</g>
+</svg>
