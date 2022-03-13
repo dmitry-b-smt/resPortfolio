@@ -33,6 +33,10 @@ body {
       text-transform: capitalize;
 }
 
+a {
+      color: #fafafa;
+}
+
 // ------------------------HEADER-------------------------
 .header {
       position: relative;
@@ -734,6 +738,7 @@ body {
       }
 
       &__description {
+            display: block;
             font-family: "OpenSans-Regular", sans-serif;
             font-weight: 400;
             text-align: justify;
@@ -763,6 +768,12 @@ body {
             flex-direction: column;
             justify-content: center;
             align-items: center;
+      }
+
+      &__tip {
+            color: rgba(250, 250, 250, 0.4);
+            text-align: center;
+            font-size: 12px;
       }
 }
 @media (min-width: 1185px) {
@@ -932,5 +943,72 @@ body {
             padding: 30px 0 0 0;
             margin: 0 auto;
             opacity: 0.5;
+      }
+}
+
+// -----------------------PERSONAL BLOG-----------------------------------
+
+.personal-blog {
+      background: #303030;
+      color: #fafafa;
+
+      &__container {
+      }
+
+      &__title {
+      }
+
+      &__subtitle {
+            opacity: 0.6;
+      }
+
+      &__description {
+            font-size: 18px;
+            letter-spacing: 0.25px;
+      }
+
+      &__image {
+            background: rgba(0, 0, 0, 0.65);
+            opacity: 0.7;
+            box-shadow: 0px 0px 5px 1px #fafafa;
+            position: relative;
+            width: 100%;
+            padding: 40% 0 0 0;
+      }
+      &__image:hover {
+            opacity: 1;
+      }
+      &__image img {
+            position: absolute;
+            width: 90%;
+            height: 100%;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            object-fit: cover;
+      }
+
+      &__images {
+            display: relative;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0 auto 30px;
+      }
+      &__images a {
+            display: block;
+            width: 100%;
+            margin: 0 0 30px 0;
+      }
+      @media (min-width: 728px) {
+            &__images a {
+                  display: block;
+                  width: 49%;
+                  margin: 0;
+            }
       }
 }

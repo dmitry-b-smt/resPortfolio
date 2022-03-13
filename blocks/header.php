@@ -21,7 +21,7 @@
                 <li class="menu__item text-ru"><a href="#" class="menu__link" data-section="contacts">контакты</a></li>
 
                 <li class="menu__item">
-                    <div href="#" class="menu__link">
+                    <div class="menu__link">
                         <form name="lang-form" class="menu__lang-switcher" method="GET">
                             <label><input checked class="menu__lang-switcher-button real-radio" name="lang" type="radio" value="en"> en</label>
                             <span class="custom-radio"></span>
@@ -57,7 +57,7 @@
 
 
                 <li class="burger__item">
-                    <div href="" class="menu__link burger__link">
+                    <div class="menu__link burger__link">
                         <form name="lang-form" class="burger__lang-switcher" method="GET">
                             <label><input checked class="menu__lang-switcher-button" name="lang" type="radio" value="en"> en</label>
                             <label><input class="menu__lang-switcher-button" name="lang" type="radio" value="ru"> ru</label>
