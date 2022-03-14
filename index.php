@@ -117,22 +117,22 @@
                                     <div class="slide__skills">
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-html">html</div>
-                                            <div class="slide__skill-value">25%</div>
+                                            <div class="slide__skill-value">34.1%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-css">css</div>
-                                            <div class="slide__skill-value">35%</div>
+                                            <div class="slide__skill-value">49.5%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-js">js</div>
-                                            <div class="slide__skill-value">40%</div>
+                                            <div class="slide__skill-value">16.4%</div>
                                         </div>
                                     </div>
                                     <div class="slide__links">
-                                        <a href="#" class="slide__link text-en">View Page</a>
-                                        <a href="#" class="slide__link text-ru">Просмотреть страницу</a>
-                                        <a href="https://github.com/" class="slide__link text-en">Go to GitHub</a>
-                                        <a href="https://github.com/" class="slide__link text-ru">Перейти к коду на GitHub</a>
+                                        <a href="works/template_5/index.html" class="slide__link text-en" target='_blank'>View Page</a>
+                                        <a href="works/template_5/index.html" class="slide__link text-ru" target='_blank'>Просмотреть страницу</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_5.git" class="slide__link text-en" target="_blank">Go to GitHub</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_5.git" class="slide__link text-ru" target="_blank">Перейти к коду на GitHub</a>
                                     </div>
                                 </div>
                             </div>
@@ -154,22 +154,22 @@
                                     <div class="slide__skills">
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-html">html</div>
-                                            <div class="slide__skill-value">30%</div>
+                                            <div class="slide__skill-value">46.7%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-css">css</div>
-                                            <div class="slide__skill-value">40%</div>
+                                            <div class="slide__skill-value">39.4%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-js">js</div>
-                                            <div class="slide__skill-value">30%</div>
+                                            <div class="slide__skill-value">13.9%</div>
                                         </div>
                                     </div>
                                     <div class="slide__links">
-                                        <a href="#" class="slide__link text-en">View Page</a>
-                                        <a href="#" class="slide__link text-ru">Просмотреть страницу</a>
-                                        <a href="https://github.com/" class="slide__link text-en">Go to GitHub</a>
-                                        <a href="https://github.com/" class="slide__link text-ru">Перейти к коду на GitHub</a>
+                                        <a href="works/template_3/index.html" class="slide__link text-en" target="_blank">View Page</a>
+                                        <a href="works/template_3/index.html" class="slide__link text-ru" target="_blank">Просмотреть страницу</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_3.git" class="slide__link text-en" target="_blank">Go to GitHub</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_3.git" class="slide__link text-ru" target="_blank">Перейти к коду на GitHub</a>
                                     </div>
                                 </div>
                             </div>
@@ -191,22 +191,22 @@
                                     <div class="slide__skills">
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-html">html</div>
-                                            <div class="slide__skill-value">25%</div>
+                                            <div class="slide__skill-value">41%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-css">css</div>
-                                            <div class="slide__skill-value">45%</div>
+                                            <div class="slide__skill-value">49.9%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-js">js</div>
-                                            <div class="slide__skill-value">30%</div>
+                                            <div class="slide__skill-value">9.1%</div>
                                         </div>
                                     </div>
                                     <div class="slide__links">
-                                        <a href="#" class="slide__link text-en">View Page</a>
-                                        <a href="#" class="slide__link text-ru">Просмотреть страницу</a>
-                                        <a href="https://github.com/" class="slide__link text-en">Go to GitHub</a>
-                                        <a href="https://github.com/" class="slide__link text-ru">Перейти к коду на GitHub</a>
+                                        <a href="works/template_2/index.html" class="slide__link text-en" target="_blank">View Page</a>
+                                        <a href="works/template_2/index.html" class="slide__link text-ru" target="_blank">Просмотреть страницу</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_2.git" class="slide__link text-en" target="_blank">Go to GitHub</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_2.git" class="slide__link text-ru" target="_blank">Перейти к коду на GitHub</a>
                                     </div>
                                 </div>
                             </div>
@@ -227,22 +227,22 @@
                                     <div class="slide__skills">
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-html">html</div>
-                                            <div class="slide__skill-value">25%</div>
+                                            <div class="slide__skill-value">52.5%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-css">css</div>
-                                            <div class="slide__skill-value">45%</div>
+                                            <div class="slide__skill-value">39.9%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-js">js</div>
-                                            <div class="slide__skill-value">30%</div>
+                                            <div class="slide__skill-value">7.6%</div>
                                         </div>
                                     </div>
                                     <div class="slide__links">
-                                        <a href="#" class="slide__link text-en">View Page</a>
-                                        <a href="#" class="slide__link text-ru">Просмотреть страницу</a>
-                                        <a href="https://github.com/" class="slide__link text-en">Go to GitHub</a>
-                                        <a href="https://github.com/" class="slide__link text-ru">Перейти к коду на GitHub</a>
+                                        <a href="works/template_1/index.html" class="slide__link text-en" target="_blank">View Page</a>
+                                        <a href="works/template_1/index.html" class="slide__link text-ru" target="_blank">Просмотреть страницу</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_1.git" class="slide__link text-en" target="_blank">Go to GitHub</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_1.git" class="slide__link text-ru" target="_blank">Перейти к коду на GitHub</a>
                                     </div>
                                 </div>
                             </div>
@@ -261,22 +261,22 @@
                                     <div class="slide__skills">
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-html">html</div>
-                                            <div class="slide__skill-value">25%</div>
+                                            <div class="slide__skill-value">27.9%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-css">css</div>
-                                            <div class="slide__skill-value">45%</div>
+                                            <div class="slide__skill-value">66.5%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-js">js</div>
-                                            <div class="slide__skill-value">30%</div>
+                                            <div class="slide__skill-value">5.6%</div>
                                         </div>
                                     </div>
                                     <div class="slide__links">
-                                        <a href="#" class="slide__link text-en">View Page</a>
-                                        <a href="#" class="slide__link text-ru">Просмотреть страницу</a>
-                                        <a href="https://github.com/" class="slide__link text-en">Go to GitHub</a>
-                                        <a href="https://github.com/" class="slide__link text-ru">Перейти к коду на GitHub</a>
+                                        <a href="works/template_4/index.html" class="slide__link text-en" target="_blank">View Page</a>
+                                        <a href="works/template_4/index.html" class="slide__link text-ru" target="_blank">Просмотреть страницу</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_4.git" class="slide__link text-en" target="_blank">Go to GitHub</a>
+                                        <a href="https://github.com/dmitry-b-smt/template_4.git" class="slide__link text-ru" target="_blank">Перейти к коду на GitHub</a>
                                     </div>
                                 </div>
                             </div>
@@ -297,23 +297,27 @@
                                 <div class="slide__meta">
                                     <div class="slide__skills">
                                         <div class="slide__skill">
+                                            <div class="slide__skill-name slide__skill-python">python</div>
+                                            <div class="slide__skill-value">94%</div>
+                                        </div>
+                                        <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-html">html</div>
-                                            <div class="slide__skill-value">25%</div>
+                                            <div class="slide__skill-value">2%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-css">css</div>
-                                            <div class="slide__skill-value">45%</div>
+                                            <div class="slide__skill-value">1.5%</div>
                                         </div>
                                         <div class="slide__skill">
                                             <div class="slide__skill-name slide__skill-js">js</div>
-                                            <div class="slide__skill-value">30%</div>
+                                            <div class="slide__skill-value">2.5%</div>
                                         </div>
                                     </div>
                                     <div class="slide__links">
                                         <a href="works/template_0/borsch.php" target="_blank" class="slide__link text-en">View Page</a>
                                         <a href="works/template_0/borsch.php" target="_blank" class="slide__link text-ru">Просмотреть страницу</a>
-                                        <a href="https://github.com/" class="slide__link text-en">Go to GitHub</a>
-                                        <a href="https://github.com/" class="slide__link text-ru">Перейти к коду на GitHub</a>
+                                        <a href="https://github.com/dmitry-b-smt/vlblog.git" class="slide__link text-en" target="_blank">Go to GitHub</a>
+                                        <a href="https://github.com/dmitry-b-smt/vlblog.git" class="slide__link text-ru" target="_blank">Перейти к коду на GitHub</a>
                                     </div>
                                 </div>
                             </div>

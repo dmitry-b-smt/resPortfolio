@@ -1181,6 +1181,8 @@ a {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -1223,6 +1225,15 @@ a {
   color: #fafafa;
   background-color: transparent;
   text-shadow: 0px 0px 15px;
+  margin: 0px 5px 0px 5px;
+}
+
+.slide__skill-php {
+  color: #534892;
+}
+
+.slide__skill-python {
+  color: #4ca5b1;
 }
 
 .slide__skill-html {

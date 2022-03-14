@@ -659,6 +659,7 @@ a {
       &__skills {
             display: flex;
             flex-direction: row;
+            flex-wrap: wrap;
             justify-content: center;
             margin: 0 0 35px 0;
       }
@@ -686,6 +687,15 @@ a {
             color: #fafafa;
             background-color: transparent;
             text-shadow: 0px 0px 15px;
+            margin: 0px 5px 0px 5px;
+      }
+
+      &__skill-php {
+            color: #534892;
+      }
+
+      &__skill-python {
+            color: #4ca5b1;
       }
 
       &__skill-html {
